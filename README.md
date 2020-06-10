@@ -9,4 +9,5 @@ https://psmith1.github.io/Word-Guess-Game/
 
 ## Summary
 
+
 ![Word Guess Game](./assets/images/kcwordguessgame.png)
